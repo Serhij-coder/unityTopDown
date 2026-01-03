@@ -4,7 +4,7 @@ A top-down adventure game with inventory and item management.
 
 ## 📥 Download
 
-Check **Releases** for builds:
+Check [**Releases**](../../releases) for builds:
 - `unity.tar.gz` - Linux
 - `unity.zip` - Windows
 
